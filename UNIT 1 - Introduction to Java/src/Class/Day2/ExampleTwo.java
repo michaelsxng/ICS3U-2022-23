@@ -1,4 +1,4 @@
-package Day2;
+package Class.Day2;
 
 /**
 * Namung Conventions:
